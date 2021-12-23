@@ -1,8 +1,22 @@
 # keylogger
 
+# ¿Ques es?:
 Es un simple keylogger solo hace falta ejecutarlo y se te creara un archivo que se llama teclas.txt i allise van a almacenar todos los registros de teclas con fecha hora etc
 
-Ejemplo:
+# Funcionamiento
+Primero clonamos el repositorio:
+      
+     git clone https://github.com/arnaudebo/keylogger
+
+Entramos:
+
+     cd krylogger
+        
+Lo ejecutamos:
+
+     python3 keylogger.py
+
+# Ejemplo:
   
     1   │ 2021-12-23 16:07:56,819 : 'h'
     2   │ 2021-12-23 16:07:57,085 : 'o'
