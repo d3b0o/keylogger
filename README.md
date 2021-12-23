@@ -1,7 +1,7 @@
 # keylogger
 
 # ¿Ques es?:
-Es un simple keylogger solo hace falta ejecutarlo y se te creara un archivo que se llama teclas.txt i allise van a almacenar todos los registros de teclas con fecha hora etc
+Es un simple keylogger solo hace falta ejecutarlo y se te creara un archivo que se llama teclas.txt y ahi se van a almacenar todos los registros de teclas con fecha hora etc
 
 # Funcionamiento
 Primero clonamos el repositorio:
