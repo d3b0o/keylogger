@@ -10,7 +10,7 @@ Primero clonamos el repositorio:
 
 Entramos:
 
-     cd krylogger
+     cd keylogger
         
 Lo ejecutamos:
 
