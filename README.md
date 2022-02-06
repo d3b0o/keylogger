@@ -6,7 +6,7 @@ Es un simple keylogger solo hace falta ejecutarlo y se te creara un archivo que 
 # Funcionamiento
 Primero clonamos el repositorio:
       
-     git clone https://github.com/arnaudebo/keylogger
+     git clone https://github.com/d3b0o/keylogger
 
 Entramos:
 
